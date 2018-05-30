@@ -27,3 +27,9 @@
 **Eigenvector**: An eigenvector of a square matrix **A** is a nonzero vector **_v_** such that multiplication by **A** alters only the scale of **_v_**. **A_v_** = λ**_v_**. The scalar λ is known as the eigenvalue corresponding to this eigenvector.
 
 **Eigendecomposition**: When a matrix is decomposed into a set of eigenvectors and eigenvalues. Given by **A** = **V**diag(λ)**V**^-1^.
+
+**Singular Value Decomposition**: A way to factorize a matrix into singular vectors and singular values. **A = UDV**^T^. The elements along the diagonal of **D** are known as the singular values of the matrix **A**. The columns of **U** are known as the left-singular vectors. The columns of **V** are known as the right-singular vectors.
+
+**Trace**: The trace operator gives the sum of all the diagonal entries of a matrix.
+
+**Determinant**: The determinant of a square matrix, denoted det(**A**), is a function that maps matrices to real scalars. Equal to the product of all the eigenvalues of the matrix.
