@@ -176,3 +176,9 @@ const m = [
 ];
 
 console.log(pca(m));
+
+module.exports = {
+    dot,
+    dotProduct,
+    pca,
+};
